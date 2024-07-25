@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "test_package"
+name = "test_package_tsh"
 version = "0.1.0"
 description = "A minimalistic Python project example"
 readme = "README.md"
