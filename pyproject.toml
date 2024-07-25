@@ -24,6 +24,12 @@ dependencies = []
 [project.urls]
 Homepage = "https://github.com/pypa/sampleproject"
 
+[tool.pytest.ini_options]
+addopts = "-ra -q"
+testpaths = [
+    "tests"
+]
+
 [tool.sphinx]
 project = "Test Package"
 author = "Patrick Hanel"
