@@ -25,7 +25,7 @@
 Simply install the package via pip:
 
 ```bash
-pip install test_package
+pip install -i https://test.pypi.org/simple/ test-package-tsh
 ```
 
 ## Usage
