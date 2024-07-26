@@ -1,5 +1,5 @@
 
-# Test Package
+# Test Package TSH
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Test Package** is a minimalistic Python project example. It is meant to be used **for educational purposes only**. I am just writing because I want some more sample text. I really don't know what else to say. Except maybe that it is way too warm at the moment. Hopefully winter is coming soon...
+**Test Package TSH** is a minimalistic Python project example. It is meant to be used **for educational purposes only**. I am just writing because I want some more sample text. I really don't know what else to say. Except maybe that it is way too warm at the moment. Hopefully winter is coming soon...
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ pip install -i https://test.pypi.org/simple/ test-package-tsh
 
 ## Usage
 
-Here's how you can use **Test Package** to do absolutely useless things:
+Here's how you can use **Test Package TSH** to do absolutely useless things:
 
 1. **Import:** Import the library.
     ```python
@@ -42,7 +42,7 @@ Here's how you can use **Test Package** to do absolutely useless things:
     tp.sp1.m1_fn1()
     ```
 
-3. **Realize it can't do anything:** You've come a long way but start to realize it really is just a \`package\` for learning purposes.
+3. **Realize it can't do anything:** You've come a long way but start to realize it really is just a 'package' for learning purposes.
 
 ## Features
 
