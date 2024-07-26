@@ -6,12 +6,12 @@
 Test Package TSH documentation
 ==============================
 
-Welcome to this beautiful documentation!
+Welcome to this beautiful documentation! You can find the source code on `GitHub <https://github.com/HAL9032/test_package_tsh>`_.
 
 Contents
 ========
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    installation
    tutorials
