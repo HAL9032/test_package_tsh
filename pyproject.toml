@@ -26,6 +26,7 @@ dev = [
     "sphinx",
     "sphinx-rtd-theme",
     "nbsphinx",
+    "nbconvert",
     "pytest"
 ]
 
