@@ -35,12 +35,12 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Verify build
         run: |
-          ls -la
+          ls -la docs/build/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: '../docs/build/'
+          path: 'docs/build/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
