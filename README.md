@@ -28,9 +28,9 @@ Simply install the package via pip:
 pip install -i https://test.pypi.org/simple/ test-package-tsh
 ```
 
-## Usage
+## Basic Usage
 
-Here's how you can use **Test Package TSH** to do absolutely useless things:
+How you can use **Test Package TSH** to do absolutely useless things:
 
 1. **Import:** Import the library.
     ```python
@@ -43,6 +43,8 @@ Here's how you can use **Test Package TSH** to do absolutely useless things:
     ```
 
 3. **Realize it can't do anything:** You've come a long way but start to realize it really is just a 'package' for learning purposes.
+
+For more information visit our **[documentation](https://hal9032.github.io/test_package_tsh)**!
 
 ## Features
 
