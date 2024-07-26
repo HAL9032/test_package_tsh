@@ -3,6 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Docs](https://github.com/HAL9032/test_package_tsh/actions/workflows/static.yml/badge.svg)](https://github.com/HAL9032/test_package_tsh/actions/workflows/static.yml)
+
 [![Python 3.8](https://github.com/HAL9032/test_package/actions/workflows/py3-8.yml/badge.svg)](https://github.com/HAL9032/test_package/actions/workflows/py3-8.yml)
 [![Python 3.9](https://github.com/HAL9032/test_package/actions/workflows/py3-9.yml/badge.svg)](https://github.com/HAL9032/test_package/actions/workflows/py3-9.yml)
 [![Python 3.10](https://github.com/HAL9032/test_package/actions/workflows/py3-10.yml/badge.svg)](https://github.com/HAL9032/test_package/actions/workflows/py3-10.yml)
