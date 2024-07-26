@@ -34,7 +34,7 @@ Here's how you can use **Test Package** to do absolutely useless things:
 
 1. **Import:** Import the library.
     ```python
-    import test_package as tp
+    import test_package_tsh as tp
     ```
 
 2. **Run Functions:** Run some functions.
