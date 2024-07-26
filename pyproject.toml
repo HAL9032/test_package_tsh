@@ -40,7 +40,13 @@ testpaths = [
     "tests"
 ]
 
+html_static_path = ["docs/source/_static"]
+
 [tool.sphinx]
 project = "Test Package TSH"
 author = "Patrick Hanel"
 version = "0.1.0"
+setup = """
+def setup(app):
+    app.add_css_file('custom.css')
+"""
