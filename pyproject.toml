@@ -21,6 +21,14 @@ classifiers = [
 requires-python = ">=3.8"
 dependencies = []
 
+[project.optional-dependencies]
+dev = [
+    "sphinx",
+    "sphinx-rtd-theme",
+    "nbsphinx",
+    "pytest"
+]
+
 [project.urls]
 Homepage = "https://github.com/HAL9032/test_package_tsh"
 Issues = "https://github.com/HAL9032/test_package_tsh/issues"
