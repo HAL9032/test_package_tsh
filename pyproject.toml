@@ -8,10 +8,10 @@ version = "0.1.0"
 description = "A minimalistic Python project example"
 readme = "README.md"
 authors = [
-    { name = "Patrick Hanel", email = "patrick_hanel@hotmail.com" }
+    { name = "Patrick Hanel", email = "patrick.hanel@example.com" }
 ]
 maintainers = [
-    { name = "Patrick Hanel", email = "patrick_hanel@hotmail.com" }
+    { name = "Patrick Hanel", email = "patrick.hanel@example.com" }
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -22,8 +22,8 @@ requires-python = ">=3.8"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/HAL9032/test_package_tsh"
+Issues = "https://github.com/HAL9032/test_package_tsh/issues"
 
 [tool.pytest.ini_options]
 addopts = "-ra -q"
@@ -32,6 +32,6 @@ testpaths = [
 ]
 
 [tool.sphinx]
-project = "Test Package"
+project = "Test Package TSH"
 author = "Patrick Hanel"
 version = "0.1.0"

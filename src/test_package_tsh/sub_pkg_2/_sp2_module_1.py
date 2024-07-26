@@ -1,6 +1,6 @@
 def m1_fn1(x: str = "default_string") -> str:
     """
-    Funktion 1 of module 1 in sub package 2
+    Function 1 of module 1 in sub package 2
     
     Args:
         x (str): input string
